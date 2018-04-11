@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title> - Hajoon Song</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="/">
+
+        <meta name="author" content="Hajoon Song" />
+        <meta name="description" content="Short Bio I am a scientist seeking to improve our understanding in the interactions between air, sea and carbon cycle in both global and regional scales. Most of my research uses varied types of numerical simulations; from the 40-variable Lorenz-96 model to state-of-art ocean circulation models such as MITgcm and …" />
+
+    <meta property="og:site_name" content="Hajoon Song" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content=""/>
+    <meta property="og:url" content="/"/>
+    <meta property="og:description" content="Short Bio I am a scientist seeking to improve our understanding in the interactions between air, sea and carbon cycle in both global and regional scales. Most of my research uses varied types of numerical simulations; from the 40-variable Lorenz-96 model to state-of-art ocean circulation models such as MITgcm and …" />
+
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.simplex.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+        <link href="/static/custom.css" rel="stylesheet">
+
+
+
+
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+Hajoon Song            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li><a href="/pages/papers.html">Papers</a></li>
+                    <li><a href="/pages/teaching.html">Teaching</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-image:url("/images/img2banner.jpg");
+	}
+</style>
+
+<div id="banner">
+</div><!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+    <section id="content" class="body">
+        
+        <div class="entry-content">
+            <h3>Short Bio</h3>
+<hr>
+<p><img align="right" src="images/HajoonSong.svg" alt="HajoonSong" style="width: 150px;"/>
+I am a scientist seeking to improve our understanding in the interactions between air, sea and carbon cycle in both global and regional scales.<br>
+Most of my research uses varied types of numerical simulations; from the 40-variable Lorenz-96 model to state-of-art ocean circulation models such as MITgcm and ROMS, from forward time-stepping simulations to backward time-stepping adjoint sensitivity and data assimilation runs, and from physical ocean circulation model to that coupled with biogeochemical models.</p>
+<p><br></p>
+<h3>Education</h3>
+<hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2011</td>
+<td>Ph.D.</td>
+<td><a href="https://scripps.ucsd.edu">Scripps Institution of Oceanography</a>, <a href="https://ucsd.edu">University of California, San Diego, USA</a>, USA</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><em>Advisors</em>: <a href="http://scrippsscholars.ucsd.edu/ajmiller">Art Miller</a> and <a href="" title="http://scrippsscholars.ucsd.edu/bcornuelle">Bruce Cornuelle</a></td>
+</tr>
+<tr>
+<td>2005</td>
+<td>B.S.</td>
+<td><a href="http://web.yonsei.ac.kr/atmoseng/index.htm" title="), [Yonsei University]('https://www.yonsei.ac.kr/en_sc/">Department of Atmospheric Sciences</a>, Seoul, South Korea</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3>Appointments</h3>
+<hr>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2016-18</td>
+<td>Research Scientist</td>
+<td><a href="https://eapsweb.mit.edu/">Department of Earth, Atmospheric and Planetary Sciences (EAPS)</a>, <a href="http://web.mit.edu">MIT</a>, USA</td>
+</tr>
+<tr>
+<td>2013-15</td>
+<td>Postdoctoral Associate</td>
+<td><a href="https://eapsweb.mit.edu/">Department of Earth, Atmospheric and Planetary Sciences (EAPS)</a>, <a href="http://web.mit.edu">MIT</a>, USA</td>
+</tr>
+<tr>
+<td>2011-13</td>
+<td>Postdoctoral Researcher</td>
+<td><a href="https://oceansci.ucsc.edu">Ocean Sciences Department</a>, <a href="https://www.ucsc.edu">University of California, Santa Cruz</a>, USA</td>
+</tr>
+<tr>
+<td>2005-11</td>
+<td>Research Assistant</td>
+<td><a href="https://scripps.ucsd.edu">Scripps Institution of Oceanography</a>, <a href="https://ucsd.edu">University of California, San Diego, USA</a>, USA</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>Research Assistant</td>
+<td><a href="http://www.kiost.ac.kr/eng.do">Korea Institute of Ocean Science and Technology</a>, Ansan, South Korea</td>
+</tr>
+</tbody>
+</table>
+        </div>
+    </section>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy;  Hajoon Song
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+
+    <script src="/theme/js/bodypadding.js"></script>
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-110544334-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+
+</body>
+</html>
